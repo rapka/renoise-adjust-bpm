@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>net.morphologist.AdjustBpm</Id>
+  <Version>1.0</Version>
+  <Author>Morphologist</Author>
+  <Name>Adjust BPM</Name>
+  <Category>Instruments</Category>
+  <Description>Adjusts the song tempo in real time</Description>
+</RenoiseScriptingTool>
